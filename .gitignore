@@ -1,5 +1,5 @@
 __pycahe__
 *.py[cod]
-docker-compose.yaml
-log/
+
+
 resources/products.json
